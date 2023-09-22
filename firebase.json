@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "site": "career-guidance-system-39db7",
+    "public": "public",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
